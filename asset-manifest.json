@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/developerFolio/static/css/main.c842ece5.css",
+    "main.css": "/developerFolio/static/css/main.f195854e.css",
     "main.js": "/developerFolio/static/js/main.84e34506.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/skill.svg": "/developerFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.c842ece5.css.map": "/developerFolio/static/css/main.c842ece5.css.map",
+    "main.f195854e.css.map": "/developerFolio/static/css/main.f195854e.css.map",
     "main.84e34506.js.map": "/developerFolio/static/js/main.84e34506.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
@@ -24,7 +24,7 @@
     "769.bda0d7b7.chunk.js.map": "/developerFolio/static/js/769.bda0d7b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c842ece5.css",
+    "static/css/main.f195854e.css",
     "static/js/main.84e34506.js"
   ]
 }
