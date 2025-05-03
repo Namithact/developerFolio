@@ -207,7 +207,7 @@ const bigProjects = {
   subtitle: "Passion projects in progress — where I’m applying what I learn and shipping real thing",
   projects: [
     {
-      projectName: "React Task Manager",
+      projectName: "Task Manager",
       projectDesc: "A task management app with priority selection, due dates, dark mode, and localStorage persistence.",
       footerLink: [
         {
@@ -217,6 +217,21 @@ const bigProjects = {
         {
           name: "GitHub",
           url: "https://github.com/Namithact/task-manager"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      projectName: "Expense Tracker App",
+      projectDesc: "A responsive and user-friendly expense tracking application built to manage and monitor daily spending. Users can add expenses with details such as category, amount, and date, and view them in a structured layout.",
+      footerLink: [
+        {
+           name: "Live Demo",
+          url: "https://expense-tracker-cf826.web.app/"
+        },
+        {
+          name: "GitHub",
+          url: "https://github.com/Namithact/expense-tracker"
         }
         //  you can add extra buttons here.
       ]
