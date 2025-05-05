@@ -26,7 +26,7 @@ const greeting = {
     "A passionate  Front-end developer with 6+ years of experience in crafting scalable, user-friendly UIs using AEM, Vue.js, JavaScript, and modern web standards. Proven success in delivering high-impact enterprise projects for global clients. Strong collaborator with a track record of on-time delivery, innovation, and excellence."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1qWl1TiJpSrRO0I-Cjc-jaH7pm2wZQWrK/view", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1gumK12XYs-bjBMH_UGMZzSRU4cvb-qQq/view", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
