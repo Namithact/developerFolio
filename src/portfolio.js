@@ -83,6 +83,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-react"
     },
     {
+      skillName: "nextjs",
+      fontAwesomeClassname: "fas fa-code"
+    },
+    {
       skillName: "VueJS",
       fontAwesomeClassname: "fab fa-vuejs"
     },
@@ -232,6 +236,21 @@ const bigProjects = {
         {
           name: "GitHub",
           url: "https://github.com/Namithact/expense-tracker"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+     {
+      projectName: "Auth Vault",
+      projectDesc: "A modern auth app using Next.js and Firebase for secure user registration, login, and dashboard access. It features email verification, password reset, and a user-friendly interface for managing authentication flows.",
+      footerLink: [
+        {
+           name: "Live Demo",
+          url: "https://authvault-1.web.app/"
+        },
+        {
+          name: "GitHub",
+          url: "https://github.com/Namithact/nextjs-project/tree/main/authvault"
         }
         //  you can add extra buttons here.
       ]
