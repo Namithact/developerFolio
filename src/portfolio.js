@@ -54,8 +54,7 @@ const skillsSection = {
     emoji(
      "⚡ I love turning designs into functional, accessible interfaces — whether it's crafting reusable components, integrating APIs, or making the UI pixel-perfect across devices."),
 
-     emoji(
-      "⚡I'm currently diving deeper into React, building hands-on projects like a Task Manager App with dark mode, localStorage, and priority logic — and learning how to ship fast and iterate better.")
+     
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -251,6 +250,21 @@ const bigProjects = {
         {
           name: "GitHub",
           url: "https://github.com/Namithact/nextjs-project/tree/main/authvault"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      projectName: "Developer Blog with Admin Panel",
+      projectDesc: "Full-stack blog with Markdown support, admin-authenticated post creation/deletion, and dynamic routing",
+      footerLink: [
+        {
+           name: "Live Demo",
+          url: "https://nextjs-project-phi-coral.vercel.app/"
+        },
+        {
+          name: "GitHub",
+          url: "https://github.com/Namithact/nextjs-project/tree/main/my-blog-app"
         }
         //  you can add extra buttons here.
       ]
