@@ -268,6 +268,21 @@ const bigProjects = {
         }
         //  you can add extra buttons here.
       ]
+    },
+    {
+      projectName: "Frontend Interview Flashcards",
+      projectDesc: "Interactive flashcards app to help developers prepare for frontend interviews. Features include language selection (JS/HTML/CSS),routing ,interactive cards, pagination, responsive UI, and modular component design.",
+      footerLink: [
+        {
+           name: "Live Demo",
+          url: "https://frontend-flashcards-two.vercel.app//"
+        },
+        {
+          name: "GitHub",
+          url: "https://github.com/Namithact/Vuejs-projects/tree/main/frontend-flashcards"
+        }
+        //  you can add extra buttons here.
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -279,7 +294,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Achievements 🏆 "),
   subtitle:
-    "Award Letters I recieved !",
+    "Award Letters and Certifications I recieved !",
 
   achievementsCards: [
     {
@@ -296,6 +311,14 @@ const achievementSection = {
           name: "Award Letter june 2022",
           url: "https://drive.google.com/file/d/1WxKk2IkTqZDxZggTriMDPAwZPbiqUtmq/view"
         }
+      ]
+    },
+    {
+      title: "React & TypeScript – The Practical Guide by Maximilian Schwarzmüller Udemy ",
+      subtitle:
+        "Focused on building scalable React applications with strong TypeScript typing and best practices. ",
+   
+      footerLink: [
       ]
     }
   ],
